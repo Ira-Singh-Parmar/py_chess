@@ -33,7 +33,7 @@ Install dependencies:
 
 **Run the game**:
 
-python play_chess.py
+python py_chess.py
 
 
 Enter moves in Standard Algebraic Notation (SAN), e.g.:
