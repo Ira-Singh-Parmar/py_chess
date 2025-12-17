@@ -19,8 +19,8 @@ A simple **command-line chess game** in Python using the [`python-chess`](https:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/Ira-Singh-Parmar/python-chess-game.git
-cd python-chess-game
+git clone https://github.com/Ira-Singh-Parmar/py_chess.git
+cd py_chess
 ```
 
 Install dependencies:
